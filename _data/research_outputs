@@ -1,0 +1,60 @@
+# Edit this file to maintain the Publications page.
+# Keep two spaces before each field under an item and begin each new item with "- title:".
+
+published:
+- title: "Harnessing artificial intelligence for ambidextrous innovation: Contingent roles of complementary investments"
+  authors: "Zhou, Y. E., Xu, J. D., & Liu, Z."
+  venue: "Technovation"
+  year: "2026"
+  badge: "ABS 3, IF: 5.8"
+  links:
+    Paper: "https://doi.org/10.1016/j.technovation.2026.103475"
+  
+- title: "Reconstructing Resources for Breakthrough Innovation: The Role of Divestiture–Acquisition Configurations Under Windows of Opportunity"
+  authors: "Huijie Sun, Yang Zhou*, Ziyu Zhou, & Zhiying Liu (* corresponding author)"
+  venue: "IEEE Transactions on Engineering Management"
+  year: "2026"
+  volume: "73"
+  pages: "2950 - 2961"
+  badge: "ABS 3, IF: 6.2"
+  links:
+    Paper: "https://doi.org/10.1109/TEM.2026.3680309/mm1"
+
+- title: "Digital Transformation and Innovation Strategy Selection: The Contingent Impact of Organizational and Environmental Factors"
+  authors: "Zhou, Y., Xu, J., Liu, Z., & Feng, J."
+  venue: "IEEE Transactions on Engineering Management"
+  year: "2024"
+  badge: "ABS 3, IF: 6.2"
+
+- title: "Achieving Sustainability Through Digital Transformation: Innovation Mechanisms and Boundary Conditions"
+  authors: "Zhou, Y., Coreynen, W., Feng, J., & Liu, Z."
+  venue: "Industrial Management & Data Systems"
+  year: "2026"  
+  volume: "126"
+  issue: "5"
+  pages: "1607-1631"
+  badge: "ABS 2; JCR Q1"
+  links:
+    Paper: "https://doi.org/10.3969/j.issn.1672-884x.2026.01.002"
+
+- title: "The Impact of Digital Transformation on Corporate Innovation: Roles of Analyst Coverage and Internal Control"
+  authors: "Zhou, Y., Xu, J., & Liu, Z"
+  venue: "Managerial and Decision Economics"
+  year: "2024"
+  volume: "45"
+  issue: "1"
+  pages: "373-393"
+  badge: "ABS 2; JCR Q2"
+  links:
+    Paper: "https://doi.org/10.19629/j.cnki.34-1014/f.250225016"
+
+- title: "Digital Technology Adoption and Innovation Performance: A Moderated Mediation Model"
+  authors: "Zhou, Y., Yang, C., Liu, Z., & Gong, L."
+  venue: "Technology Analysis & Strategic Management"
+  year: "2024"
+  volume: "36"
+  issue: "11"
+  pages: "3341-3356"
+  badge: "ABS 2; JCR Q3"
+  links:
+    Paper: "https://doi.org/10.19629/j.cnki.34-1014/f.250225016"
