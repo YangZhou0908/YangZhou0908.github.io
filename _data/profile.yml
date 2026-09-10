@@ -52,11 +52,13 @@ education:
 
 awards:
 - name: National Scholarship
-  date: 2020
-- name: National Scholarship
-  date: 2019
-- name: National Scholarship
-  date: 2018
+  date: 2018, 2019, 2020
+- name: Excellent Graduate of Anhui Province
+  date: 2021
+- name: First-class Master Scholarship
+  date: 2021, 2022
+- name: First-class Doctoral Scholarship
+  date: 2023, 2024, 2025, 2026
 
 Academic Service:
 - Reviewers: Technovation, Asia Pacific Journal of Management, IEEE TEM.
